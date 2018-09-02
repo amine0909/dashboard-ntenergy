@@ -1,0 +1,5 @@
+Après avoir hébergé le site Web et que vous avez un nom de domaine, vous devez apporter des modifications, suivez simplement les étapes:
+1) Allez sur le lien et ouvrez le fichier C:\xampp\htdocs\dashbord-ntenergy\resources\assets\js\components\client.component.vue
+2) modifier les lignes 69 et 79
+---> ligne 69: http://localhost/chokriProject/public/api/getAllDemandes ==> {lien de site ntenergy}/api/getAllDemandes
+---> ligne 79: http://localhost/chokriProject/public/api/change_status  ==> {lien de site ntenergy}/api/change_status
